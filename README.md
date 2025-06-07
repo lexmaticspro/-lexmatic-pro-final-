@@ -1,2 +1,3 @@
-# -lexmatic-pro-final-
-MVP inicial de Lex Matic Pro - Abogado IA
+# LexMatic Pro
+
+Proyecto profesional de React para LexMatic Pro - Abogado IA.
